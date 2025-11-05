@@ -9,7 +9,7 @@ Basically, I fed it some messy CSVs, cleaned them up, and made the model guess w
 
 - Loads global drug death data from a CSV file
 - Cleans up the nightmare formatting 
-- Turns country names into 0/1 columns (so the model doesn’t think “Brazil > Canada”)  
+- Turns country names into 0/1 columns so the model doesn’t think “Brazil > Canada” for some reason
 - Applies **log scaling** to make the data less chaotic  
 - Trains a **Random Forest** model to predict overdose deaths  
 - Predicts future years (2023–2025)  
