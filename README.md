@@ -1,7 +1,7 @@
 # Drug Overdose Predictor
 
 This project trains a **Random Forest Regressor** to predict global **drug-related deaths** using real-world data.  
-Basically, I fed it a messy CSV, cleaned it up and made the model guess which countries are most likely to get wrecked by rising overdose rates.
+Basically, I fed it a messy CSV, cleaned it up and made the model guess which countries are most likely to get wrecked by rising overdose rates
 
 ---
 
